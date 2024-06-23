@@ -17,7 +17,7 @@
         "AUDIO_DATA": {
             "description": "audio package name",
             "required": true,
-            "value":"RAJ-BOT-OFC;+994407122025;https://i.imgur.com/FHerQPD.jpeg"
+            "value":"RAJ-BOT-OFC;+994407122025;https://i.imgur.com/FHerQPD.jpeg Bhai"
         },
         "WARN_COUNT": {
             "description": "warn count",
