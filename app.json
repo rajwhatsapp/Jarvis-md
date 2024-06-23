@@ -1,11 +1,11 @@
 {
     "name": "Jarvis",
     "version":"1.0.0",
-    "description": "Jarvis Multi Device whatsappbot",
-    "logo": "https://i.imgur.com/PmfMtfa.jpeg",
+    "description": "RAJ-BOT-OFC Multi Device whatsappbot",
+    "logo": "https://i.imgur.com/FHerQPD.jpeg",
     "keywords": ["whatsapp"],
-    "repository": "https://github.com/Loki-Xer/Jarvis",
-    "website": "https://github.com/Loki-Xer/Jarvis",
+    "repository": "https://github.com/rajwhatsapp/Jarvis",
+    "website": "https://github.com/rajwhatsapp/Jarvis",
     "success_url": "/",
     "stack": "container",
     "env": {
